@@ -1,6 +1,6 @@
 # 🎯 Software Quality Assurance Portfolio
 
-![GitHub Profile Banner](https://yourbannerurl.com/banner.png)
+![GitHub Profile Banner](https://github.com/Crack-Work/Crack-Work/blob/main/assets/Banner.png)
 
 ## 👋 Hi, I'm Charlos Dwi Anggoman!  
 🚀 **Software Quality Assurance Engineer** | 🛠 **Automation & Manual Testing** | 🔍 **Bug Hunter**
