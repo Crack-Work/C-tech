@@ -15,6 +15,15 @@ I am committed to continuous learning and professional growth, always aiming to 
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/asana-orange?style=for-the-badge&logo=asana&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Google_Drive-Yellow?style=for-the-badge&logo=google%20drive&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Appium-yellow?style=for-the-badge&logo=appium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Chrome_DevTools-red?style=for-the-badge&logo=google%20chrome&logoColor=white)
+![Static Badge](https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/slack-blue?style=for-the-badge&logo=slack&logoColor=white)
+
+
+
 
 ## 📂 Projects
 ### 🔹 Web Automation Testing
