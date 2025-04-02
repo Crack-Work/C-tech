@@ -28,7 +28,7 @@ I am committed to continuous learning and professional growth, always aiming to 
 ## 📂 Projects
 ### 🔹 Test Scenario
 📌 **Test Scenario** - e-commerce Platform.  
-🔗 [View Project]([./web-automation/README.md])
+🔗 [View Project](https://github.com/Crack-Work/Example-Test-Scenario-Ecommerce-Platform./blob/main/UAT%20Scenario%20-%20E-commerce%20Platform.pdf)
 
 📌 **Test Scenario** - Reporting Platform.  
 🔗 [View Project](https://github.com/Crack-Work/Example-Test-Scenario-Reporting-Platform./blob/main/UAT%20Scenario%20-%20Reporting%20Platform.pdf)
