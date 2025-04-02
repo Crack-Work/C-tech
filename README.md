@@ -31,7 +31,7 @@ I am committed to continuous learning and professional growth, always aiming to 
 🔗 [View Project]([./web-automation/README.md])
 
 📌 **Test Scenario** - Reporting Platform.  
-🔗 [View Project](https://github.com/Crack-Work/Test-Scenario---Reporting-Platform./blob/main/UAT%20Scenario%20-%20LCI-EasySR.pdf)
+🔗 [View Project](https://github.com/Crack-Work/Example-Test-Scenario-Reporting-Platform./blob/main/UAT%20Scenario%20-%20Reporting%20Platform.pdf)
 
 📌 **Test Scenario** - Supply Chain Platform.  
 🔗 [View Project](./web-automation/README.md)
