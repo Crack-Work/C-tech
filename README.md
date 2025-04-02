@@ -26,12 +26,25 @@ I am committed to continuous learning and professional growth, always aiming to 
 
 
 ## 📂 Projects
-### 🔹 Web Automation Testing
-📌 **Selenium + Python** - Automated testing for an e-commerce website.  
+### 🔹 Test Scenario
+📌 **Test Scenario** - e-commerce Platform.  
+🔗 [View Project](./web-automation/README.md)
+
+📌 **Test Scenario** - Reporting Platform.  
+🔗 [View Project](./web-automation/README.md)
+
+📌 **Test Scenario** - Supply Chain Platform.  
+🔗 [View Project](./web-automation/README.md)
+
+### 🔹 Automation Testing
+📌 **Selenium + Python** - Automated testing.  
+🔗 [View Project](./web-automation/README.md)
+
+📌 **Katalon** - Automated testing.  
 🔗 [View Project](./web-automation/README.md)
 
 ### 🔹 API Testing with Postman
-📌 **Postman + Newman** - API test collection for a RESTful service.  
+📌 **Postman** - API test collection for a RESTful service.  
 🔗 [View Project](./api-testing/README.md)
 
 ### 🔹 Performance Testing with JMeter
