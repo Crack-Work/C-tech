@@ -38,7 +38,7 @@ I am committed to continuous learning and professional growth, always aiming to 
 
 ### 🔹 Automation Testing
 📌 **Selenium + Python** - Automated testing.  
-🔗 [View Project](./web-automation/README.md)
+🔗 [View Project](https://github.com/Crack-Work/Selenium-Python-Automated-testing.)
 
 📌 **Katalon** - Automated testing.  
 🔗 [View Project](https://github.com/Crack-Work/Katalon---Automated-testing.)
