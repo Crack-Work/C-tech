@@ -41,7 +41,7 @@ I am committed to continuous learning and professional growth, always aiming to 
 🔗 [View Project](./web-automation/README.md)
 
 📌 **Katalon** - Automated testing.  
-🔗 [View Project](./web-automation/README.md)
+🔗 [View Project](https://github.com/Crack-Work/Katalon---Automated-testing.)
 
 ### 🔹 API Testing with Postman
 📌 **Postman** - API test collection for a RESTful service.  
