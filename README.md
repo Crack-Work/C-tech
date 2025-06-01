@@ -3,7 +3,7 @@
 ![GitHub Profile Banner](https://github.com/Crack-Work/Crack-Work/blob/main/assets/Banner.png)
 
 ## 👋 Hi, I'm Charlos Dwi Anggoman!  
-🚀 **Software Quality Assurance Engineer** | 🛠 **Automation & Manual Testing** | 🔍 **Bug Hunter**
+🚀 **Software Quality Assurance** | 🛠 **Automation & Manual Testing** | 🔍 **Bug Hunter**
 
 Dedicated Software Quality Assurance Engineer with extensive experience in **manual**, **API**, and **functional testing**. I specialize in developing robust testing strategies for complex projects, collaborating closely with cross-functional teams, and leading quality-focused initiatives. My skills include identifying process improvement opportunities and promoting quality as a key driver of business success.
 
