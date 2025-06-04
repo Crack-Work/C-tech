@@ -49,7 +49,7 @@ I am committed to continuous learning and professional growth, always aiming to 
 
 ### 🔹 Performance Testing with JMeter
 📌 **JMeter Load Testing** - Simulating high traffic for login API.  
-🔗 [View Project](./performance-testing/README.md)
+🔗 [View Project](https://github.com/Crack-Work/Performance-Testing-with-JMeter)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
